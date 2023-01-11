@@ -1,1 +1,2 @@
 ..adding a line after staging.
+*adding new feature*
